@@ -1,7 +1,7 @@
 # Snowflake Hands-On SQL Files
 
 | File Name | Description |
-
+|---|---|
 | Caching.sql | Demonstrates Snowflake query caching mechanisms and performance optimization using result cache. |
 | Cloning-DB-Schemas.sql | Shows how to clone databases and schemas using Snowflake zero-copy cloning. |
 | Cloning-Table.sql | Contains examples for cloning tables without duplicating physical storage. |
